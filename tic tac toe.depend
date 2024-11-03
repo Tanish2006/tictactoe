@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1546320008 source:c:\tanish\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	<string.h>
+	<dos.h>
+
